@@ -7,7 +7,7 @@
 
 A comprehensive machine learning dashboard for predicting and analyzing customer churn in the telecommunications industry. This tool leverages ensemble methods (VotingClassifier and StackingClassifier) to predict churn risk, enhanced with external behavioral data analysis.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/0e1117/FF6F61?text=Telco+Churn+Dashboard)
+![Dashboard Preview](image.png)
 
 ## 📋 Table of Contents
 
