@@ -46,7 +46,7 @@ A comprehensive machine learning dashboard for predicting and analyzing customer
 
 ## 🎮 Demo Link 
 
-
+https://churnpredicthack.streamlit.app/
 
 ### Live Dashboard
 
